@@ -18,3 +18,5 @@ Adding from master branch for merge demo
 Rebasefinal
 
 Adding text to understand  rebase - master
+
+Adding text to understancd rebase - master second commit
