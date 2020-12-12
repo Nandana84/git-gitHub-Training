@@ -31,6 +31,7 @@ rebasedemo - master
 rebase4 -first commit
 
 rebase5- first commit
+string
 int
 rebase6 - master
 
