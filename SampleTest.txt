@@ -34,4 +34,6 @@ rebase5- first commit
 int
 rebase6 - master
 
+rebase6 -rebase6
+
 master - rebase demo
