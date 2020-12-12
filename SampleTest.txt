@@ -32,4 +32,6 @@ rebase4 -first commit
 
 rebase5- first commit
 
+rebase6 - master
+
 master - rebase demo
