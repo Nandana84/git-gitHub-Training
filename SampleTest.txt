@@ -8,4 +8,6 @@ bugfix2
 
 bugfix5
 
+This line is added from rebase branch
+
 This is added from master branch for rebase demo
