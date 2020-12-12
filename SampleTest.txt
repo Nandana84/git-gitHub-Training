@@ -22,3 +22,4 @@ Adding text to understand  rebase - master
 Adding text to understancd rebase - rebasefeature2 second commit
 
 Adding text to understancd rebase - master second commit
+Adding text to understancd rebase - rebasefeature3 first commit
